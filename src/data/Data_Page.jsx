@@ -7,7 +7,7 @@ export const homedata={
     button:{
         content:"Get Started",
         color:"bg-green-600 text-white hover:bg-green-400",
-        link:"#contact"
+        link:"#contac-us"
     
     }
 }
