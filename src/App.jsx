@@ -5,6 +5,7 @@ import GoToTop from './components/layout/Comp_GoToTop';
 import Home from './pages/Home';
 import Services from './pages/Services';
 import AboutUs from './pages/AboutUs';
+import OurTeams from './pages/OurTeams';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
  <Home/>
  <Services/>
  <AboutUs/>
+ <OurTeams/>
   </main>
    <Footer/> 
     </>
