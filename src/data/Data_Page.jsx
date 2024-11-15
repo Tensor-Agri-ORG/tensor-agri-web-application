@@ -1,4 +1,5 @@
 import hero from "../asserts/images/page/hero.webp"
+import services from './Data_Services';
 export const homedata={
     hero:{
     title:"Empowering Your Business with Cutting-Edge Software Solutions",
@@ -11,5 +12,9 @@ export const homedata={
     
     }
 }
+}
+
+export const servicedata={
+    services:services
 }
 
