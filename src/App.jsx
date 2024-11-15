@@ -4,6 +4,7 @@ import Footer from './layout/Footer';
 import GoToTop from './components/layout/Comp_GoToTop';
 import Home from './pages/Home';
 import Services from './pages/Services';
+import AboutUs from './pages/AboutUs';
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
  <GoToTop/>
  <Home/>
  <Services/>
+ <AboutUs/>
   </main>
    <Footer/> 
     </>
