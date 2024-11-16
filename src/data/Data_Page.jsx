@@ -1,6 +1,8 @@
 import hero from "../asserts/images/page/hero.webp"
 import reasons from "./Data_Reason";
 import services from './Data_Services';
+import teamMembers from './Data_OurTeam';
+import contactDetails from "./Data_ContacDetails";
 export const homedata={
     hero:{
     title:"Empowering Your Business with Cutting-Edge Software Solutions",
@@ -25,4 +27,14 @@ export const aboutusdata={
     content:"We are a leading software development company, delivering cutting-edge solutions tailored to meet the specific needs of businesses around the globe. Our goal is to empower companies with scalable, reliable, and innovative technology.",
     why_we_us:" Our approach sets us apart from other software development firms. With years of experience, a client-first mentality, and a commitment to innovation, we ensure that your business thrives in the digital age.",
     reasons
+}
+
+export const ourTeamData={
+    teamMembers
+}
+
+export const contactusData={
+    title:"Contact Us",
+    content:"Have a question or want to discuss a project? Reach out to us through any of the following channels.",
+   contactDetails
 }
