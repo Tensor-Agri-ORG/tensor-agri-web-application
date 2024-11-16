@@ -39,6 +39,7 @@ Ensure you have the following installed:
 ### Step 1: Clone the Repository  
 Clone the project repository from GitHub to your local machine:  
 ```bash
-git clone https://github.com/your-username/tensor-agri-web.git  
-cd tensor-agri-web  
+git clone https://github.com/Tensor-Agri-ORG/tensor-agri-web-application.git  
+cd tensor-agri-web
+npm install 
 ```
