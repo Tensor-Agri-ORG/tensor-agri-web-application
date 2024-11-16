@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Services from './pages/Services';
 import AboutUs from './pages/AboutUs';
 import OurTeams from './pages/OurTeams';
+import ContactUs from './pages/ContactUs';
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
  <Services/>
  <AboutUs/>
  <OurTeams/>
+ <ContactUs/>
   </main>
    <Footer/> 
     </>

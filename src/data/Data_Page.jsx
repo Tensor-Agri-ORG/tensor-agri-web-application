@@ -2,6 +2,7 @@ import hero from "../asserts/images/page/hero.webp"
 import reasons from "./Data_Reason";
 import services from './Data_Services';
 import teamMembers from './Data_OurTeam';
+import contactDetails from "./Data_ContacDetails";
 export const homedata={
     hero:{
     title:"Empowering Your Business with Cutting-Edge Software Solutions",
@@ -30,4 +31,10 @@ export const aboutusdata={
 
 export const ourTeamData={
     teamMembers
+}
+
+export const contactusData={
+    title:"Contact Us",
+    content:"Have a question or want to discuss a project? Reach out to us through any of the following channels.",
+   contactDetails
 }
