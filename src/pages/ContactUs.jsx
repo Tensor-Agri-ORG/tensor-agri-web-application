@@ -1,6 +1,5 @@
 import React from 'react'
 import PageLayout from '../layout/PageLayout'
-import { FaEnvelope, FaPhoneAlt, FaWhatsapp } from 'react-icons/fa'
 import { contactusData } from '../data/Data_Page'
 import Contact from '../components/pages/Contact'
 
